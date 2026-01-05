@@ -1,0 +1,1 @@
+# argocd-gitops-ec2
