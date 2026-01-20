@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: lokeshreddy56/nginx-ci:10
+        image: lokeshreddy56/nginx-ci:11
         ports:
         - containerPort: 80
